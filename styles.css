@@ -173,19 +173,9 @@ h3 {
 }
 
 .app-icon-large {
-  width: min(54%, 250px);
+  width: min(72%, 360px);
   border-radius: 28%;
-  box-shadow: 0 26px 70px rgba(53, 216, 255, 0.18);
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: rotate(-6deg);
-}
-
-.phone-shot {
-  width: min(72%, 320px);
-  border-radius: 36px;
-  box-shadow: 0 28px 90px var(--shadow);
+  box-shadow: 0 30px 90px rgba(53, 216, 255, 0.2);
   border: 1px solid var(--line);
 }
 

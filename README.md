@@ -7,9 +7,7 @@ This folder is a static GitHub Pages site for BigBrain Prompting.
 - `index.html`: Marketing page / optional App Store marketing URL.
 - `privacy.html`: Privacy policy URL for App Store Connect.
 - `support.html`: Support URL for App Store Connect.
-- `APP_STORE_METADATA.md`: Copy draft for App Store Connect fields.
 - `assets/app-icon.png`: App icon.
-- `assets/app-screen.png`: Simulator screenshot.
 
 ## Before Publishing
 
